@@ -1,0 +1,388 @@
+#separator:tab
+#html:true
+a, az	the
+ablak	window
+alacsony	short, low
+áll	stand
+alma	apple
+álmos	sleepy
+amerikai	American
+angol	English
+asztal	table, desk
+autó	car
+bemutatkozás	introduction
+bent	inside, in
+beszél	to speak
+bíró	judge
+bocsánat	sorry, excuse me
+boldog	happy
+bolt	shop
+bors	pepper
+bor	wine
+busz	bus
+ceruza	pencil
+citrom	lemon
+csak	just, only
+csendes	silent quiet
+csésze	cup
+csinál	to do
+csípős	spicy
+csirke	chicken
+csókolom	I kiss your hand
+dél	South, noon
+diák	student
+disznó	pig
+dolgozik	work
+ebéd	lunch
+édes	sweet
+egy	one, a
+éhes	hungry
+éjszaká	night
+elköszönés	farewell
+elnézést	excuse me, sorry
+él	to live
+ember	people
+énekel	to sing
+én	I, me
+eper	strawberry
+épület	building
+értem	understand
+és	and
+estét	evening
+eszik	to eat
+étel	food
+év	year
+ez	this, it
+fáradt	tired
+fa	tree
+fekete	black
+férfi	man
+fiatal	young
+finom	delicious, fine, tasty
+fiú	boy
+fogalmam sincs	i have no idea
+főnök	boss
+főzöl	to cook
+friss	fresh
+fut	to run
+füzet	notebook, exercise book
+gomba	mushroom
+gyenge	weak
+gyümölcs	fruit
+hány	how much
+három	three, 3
+hat	six, 6
+ház	house
+hogy mondják	How should I say it?
+hogy	that, how
+hol	where
+hús	meat
+igen	yes
+író	writer
+ír	to write
+iskola	school
+iszik	to drink
+ital	drink
+itt	here
+jó	good, all right, okay
+katona	soldier
+kávé	coffee
+kenyer	bread
+kérdezhetek valamit?	Can I ask you something?
+keresek	I look for
+kert	garden
+keserű	bitter
+kicsi, kis	small, little
+kint	outside
+kívánok	I wish
+ki	who
+könyv	book
+könyvtar	library
+kórház	hospital
+körte	pear
+köszönés	greetings
+köszönöm	thank you
+krumpli	potato
+külföldi vagyok	I am a foreigner
+kutyá	dog
+lány	girl, daughter
+lát	to see
+madár	bird
+magas	tall, high
+magyar	Hungarian
+marhahús	beef
+megálló	stop, (tram, bus, metro)
+mérges	angry
+mérnök	engineer
+miért	why
+milyen	what kind
+mindig	always, all the time
+mínusz	minus, negative
+mit jelent az	What does it mean?
+mit mondasz	what do you say
+mi	what
+most	now
+művész	artist
+nagy	big, large
+nagyon örülök	I am very happy
+nagyon	very, a lot
+nap	sun, day
+narancs	orange
+négy	four
+nem	not
+nem tudom	I don't know
+nincs	I do not have
+nő	woman
+nulla	zero
+nyitva	open
+nyolc	eight
+nyugodt	calm, relaxed
+ő	he, she
+óra	clock, watch
+orvos	doctor, physician
+otthon	(at) home
+ott	there
+pályaudvar	train station
+persze	of course
+piac	market
+pihen	relax, rest
+pincér	waiter
+piros	red
+pohár	glass
+politikus	politician
+reggel	morning
+rendőr	policeman
+repülőtér	airport
+repül	to fly
+rizs	rice
+rosszul	sick, badly, poorly
+sajnos	unfortunately
+sajt	cheese
+saláta	salad
+savanyú	sour
+semmi baj	no problem
+séta	walk
+siet	rush, hurry
+sofőr	driver
+sör	beer
+só	salt
+süt	to bake
+szakács	cook
+szálloda	hotel
+szék	chair
+szép	beautiful, nice, pretty
+szépen	very much
+szerelmes	in love with
+szerencsés	lucky
+szervusz, szia	hello
+színésznő	actress
+szívesen	you are welcome
+szomjas	thirsty
+szomorú	sad
+szörnyű	terrible awful
+szótar	dictionary
+szöveg	text
+szó	word
+szünet	pause, break
+találkozás	meeting
+tanár	teacher
+tánc	to dance
+tanterem	classroom
+tanul	to study
+tej	milk
+telefon	telephone
+tessék	here you are
+tészta	pasta
+te	you
+tíz	ten
+tökéletes	perfect
+toll	pen
+tudom	I see, I know
+tűzoltó	firefighter
+üdvözlöm	I welcome you
+ügyvéd	lawyer
+új	new
+ül	to sit
+unalmas	boring
+vagyok	I am
+vagy	you are
+vaj	butter
+van	there is
+város	city, town
+vár	to wait
+világos	bright, clear
+világos minden	Everything is clear
+viszlát	bye, goodbye, see you
+viszontlátásra	goodbye, bye, see you later
+víz	water
+zárva	closed
+zöldség	vegetables
+foglalkozás	profession
+életkor	age
+nyelv	language
+lehet	can be
+nemzetiség	nationality
+tényleg	really
+férj	husband
+feleség	wife
+még egyszer	once again
+érdekes	interesting
+tetszik	I like
+szerintem	as I think, IMHO
+család	family
+anya, édesanya	mother
+apa, édesapa	father
+anyukam	my mother
+hasznos	useful
+fontos	important
+mert	because
+szám	number
+kettő	two
+öt	five
+hét	seven
+kilenc	nine
+tizenegy	eleven
+húsz	twenty
+harminc	thirty
+negyven	forty
+ötven	fifty
+hatvan	sixty
+száz	hundred
+kétszáz	two hundred
+ezer	thousand
+százezer	hundred thousands
+egymillió	one million
+sok	many
+kéves	few
+fél	half
+villamos	tram
+első	first
+második	second
+harmadik	third
+milyen magas	how tall
+mennyibe kerül	how much does it cost
+párbeszéd	dialogue
+világ	world
+hely	place
+költő	poet
+zeneszerző	composer
+énekes	singer
+festő	painter
+színész	actor
+egyetemista	university student
+informatikus	IT specialist
+asszisztens	assistant
+üzletember	businessman
+sportoló	athlete
+filozófus	philosopher
+pszichológus	psychologist
+könyvtáros	librarian
+feltaláló	inventor
+kutató	researcher
+eladó	shop assistant / seller
+családanya	mother of a family
+háztartásbeli	householder
+após	father-in-law
+anyós	mother-in-law
+válasz	response
+nyugdíjas	pensioner
+nagyszülő	grandparent
+nagymama	grandmother
+nagypapa	grandfather
+szülo	parent
+anyuka	mom
+apuka	dad
+gyerek gyermek	child
+nővér	older sister
+báty	older brother
+húg	younger sister
+öcs	younger brother
+házastárs	spouse
+testvér tesó	sibling
+általában	usually
+mindenki	everyone
+talán	maybe
+elég	enough
+olyan jol	so good
+még nem jol	not yet good
+barát	friend
+vicc	joke
+túl jó	too good
+fáj a fejem	my head hurts
+remek, remekül	great
+még	yet, still
+már	already
+apró pénz	small coins
+készpénz	cash money
+igazolvány	ID card
+kulcs	key
+fülhallgató	earphones
+tükör	mirror
+zsebkendő	handkerchief
+töltő	charger
+gyakran	often
+néhá	sometimes
+antipatikus	antipathetic
+barátságos	friendly, amicable
+barátságtalan	unfriendly
+csinos	pretty
+csúnya	ugly
+ellenszenves	disgusting
+friss, energikus	fresh, energetic
+ideges	nervous
+idős	elderly
+jókedvű	good mood
+jóképű	handsome
+karcsú	slim
+kedves	kind
+könnyű	light weight, easy
+kövér	fat
+lusta	lazy
+molett	plus-sized
+nehéz	heavy
+rokonszenves	likeable, appealing, sympathetic
+rosszkedvű	bad mood
+régi	old object
+sovány	skinny
+szakállas	bearded
+szimpatikus	sympathetic
+szorgalmas	hardworking
+sötét	dark
+türelmes	patient
+türelmetlen	impatient
+vidám	cheerful
+vékony	thin
+öreg	old age (living)
+csak egy pillanat	just a second
+vezetni	to drive
+rajzolni	to draw
+festeni	to paint
+síel	ski
+termék	product
+óvoda	kindergarten
+pénztárca	wallet
+napszemüveg	sunglasses
+tulajdonsag	property, feature
+meleg	warm
+hideg	cold
+beteg	sick
+egészséges	healthy
+erős	strong
+lassú	slow
+buta, hülye	stupid
+esernyő	umbrella
+kabát	jacket
+föld	earth, land, ground
+hajó	ship
+vonat	train
+tiszta	clean
+igaz vagy hamis	true or false
+már is, azonnal	already, just now
+hangulat	mood
+kedvenc	favourite
+adni	to give
+rendetlen	messy, disorderly
+hires	famous
+egykori	former
+előadás	lecture
+hétköznap	weekday
