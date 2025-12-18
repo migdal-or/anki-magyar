@@ -386,6 +386,20 @@ hires	famous
 egykori	former
 előadás	lecture
 hétköznap	weekday
+alap	fundamental, base
+törvény	law
+tisztelet	respect
+alkotmány	constitution
+vívmány	achievement 
+megtestesít	to embody
+test	body 
+folytonosság	continuity
+egység	unity
+emlék	memory
+forradalom	revolution
+harc	war, fight 
+alapítás	foundation 
+visel valamit	to wear something
 the	a, az
 window	ablak
 short, low	alacsony
@@ -772,3 +786,17 @@ famous	hires
 former	egykori
 lecture	előadás
 weekday	hétköznap
+fundamental, base	alap
+law	törvény
+respect	tisztelet
+constitution	alkotmány
+achievement 	vívmány
+to embody	megtestesít
+body 	test
+continuity	folytonosság
+unity	egység
+memory	emlék
+revolution	forradalom
+war, fight 	harc
+foundation 	alapítás
+to wear something	visel valamit
