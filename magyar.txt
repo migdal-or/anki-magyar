@@ -386,3 +386,17 @@ hires	famous
 egykori	former
 előadás	lecture
 hétköznap	weekday
+alap	fundamental, base
+törvény	law
+tisztelet	respect
+alkotmány	constitution
+vívmány	achievement 
+megtestesít	to embody
+test	body 
+folytonosság	continuity
+egység	unity
+emlék	memory
+forradalom	revolution
+harc	war, fight 
+alapítás	foundation 
+visel valamit	to wear something
