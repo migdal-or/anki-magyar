@@ -1,5 +1,5 @@
-#separator:tab
-#html:true
+#separator:tab	
+#html:true	
 a, az	the
 ablak	window
 alacsony	short, low
@@ -79,7 +79,7 @@ hol	where
 hús	meat
 igen	yes
 író	writer
-ír	to write
+ír	write
 iskola	school
 iszik	to drink
 ital	drink
@@ -400,6 +400,18 @@ forradalom	revolution
 harc	war, fight 
 alapítás	foundation 
 visel valamit	to wear something
+nyomtat	print
+olvas	read
+csetel	chat
+felkel	get up
+vásárol	buy
+otthon marad	stay at home
+néz	look
+hallgat	listen
+bulizik	party
+alszik	sleep
+játszik	play
+megy	go
 the	a, az
 window	ablak
 short, low	alacsony
@@ -479,7 +491,7 @@ where	hol
 meat	hús
 yes	igen
 writer	író
-to write	ír
+write	ír
 school	iskola
 to drink	iszik
 drink	ital
@@ -800,3 +812,15 @@ revolution	forradalom
 war, fight 	harc
 foundation 	alapítás
 to wear something	visel valamit
+print	nyomtat
+read	olvas
+chat	csetel
+get up	felkel
+buy	vásárol
+stay at home	otthon marad
+look	néz
+listen	hallgat
+party	bulizik
+sleep	alszik
+play	játszik
+go	megy
