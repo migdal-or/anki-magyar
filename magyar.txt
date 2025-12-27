@@ -79,7 +79,7 @@ hol	where
 hús	meat
 igen	yes
 író	writer
-ír	to write
+ír	write
 iskola	school
 iszik	to drink
 ital	drink
@@ -400,3 +400,15 @@ forradalom	revolution
 harc	war, fight 
 alapítás	foundation 
 visel valamit	to wear something
+nyomtat	print
+olvas	read
+csetel	chat
+felkel	get up
+vásárol	buy
+otthon marad	stay at home
+néz	look
+hallgat	listen
+bulizik	party
+alszik	sleep
+játszik	play
+megy	go
