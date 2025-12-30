@@ -32,7 +32,7 @@ csókolom	I kiss your hand
 dél	South, noon
 diák	student
 disznó	pig
-dolgozik	work
+dolgozni	to work
 ebéd	lunch
 édes	sweet
 egy	one, a
@@ -79,7 +79,6 @@ igen	yes
 író	writer
 ír	write
 iskola	school
-iszik	to drink
 ital	drink
 itt	here
 jó	good, all right, okay
@@ -401,7 +400,6 @@ nyomtat	print
 olvas	read
 csetel	chat
 felkel	get up
-vásárol	buy
 otthon marad	stay at home
 néz	look
 hallgat	listen
@@ -432,7 +430,7 @@ folyó	river
 fölött	above, over
 fúj	blow
 fürdeni	to bathe
-főz	cook
+főzni	to cook
 gazdag	rich, wealthy
 gyors	fast
 gyík	lizard
@@ -451,7 +449,7 @@ ide	over here
 idő	weather, date, time
 ing	shirt
 innen	from here
-inni	to drink
+inni, iszik	to drink
 jég	ice
 jön	come
 kacsa	duck
@@ -459,7 +457,6 @@ kedd	Tuesday
 kerül	cost
 kezdődik	starts, begins
 kiabál	shout
-kor	age
 korán	early
 kék	blue
 kérdés	question
@@ -522,6 +519,7 @@ utca	street
 vacsora	dinner
 vasárnap	Sunday
 venni, vesz	buy
+vásárolni	to do shopping
 zöld	green
 állat	animal
 ára	price
