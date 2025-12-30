@@ -1,5 +1,5 @@
-#separator:tab	
-#html:true	
+#separator:tab
+#html:true
 a, az	the
 ablak	window
 alacsony	short, low
@@ -32,7 +32,7 @@ csókolom	I kiss your hand
 dél	South, noon
 diák	student
 disznó	pig
-dolgozik	work
+dolgozni	to work
 ebéd	lunch
 édes	sweet
 egy	one, a
@@ -48,7 +48,6 @@ eper	strawberry
 épület	building
 értem	understand
 és	and
-estét	evening
 eszik	to eat
 étel	food
 év	year
@@ -62,7 +61,6 @@ finom	delicious, fine, tasty
 fiú	boy
 fogalmam sincs	i have no idea
 főnök	boss
-főzöl	to cook
 friss	fresh
 fut	to run
 füzet	notebook, exercise book
@@ -81,7 +79,6 @@ igen	yes
 író	writer
 ír	write
 iskola	school
-iszik	to drink
 ital	drink
 itt	here
 jó	good, all right, okay
@@ -124,7 +121,6 @@ mi	what
 most	now
 művész	artist
 nagy	big, large
-nagyon örülök	I am very happy
 nagyon	very, a lot
 nap	sun, day
 narancs	orange
@@ -404,14 +400,139 @@ nyomtat	print
 olvas	read
 csetel	chat
 felkel	get up
-vásárol	buy
 otthon marad	stay at home
 néz	look
 hallgat	listen
 bulizik	party
 alszik	sleep
 játszik	play
-megy	go
+alatt	under, below
+barna	brown
+bogár	bug, beetle
+béka	frog
+cica	kitten
+cseresznye	cherry
+csíkos	striped
+csütörtök	Thursday
+cukor	sugar
+drága	expensive
+egész	all, entire
+előtt	in front of
+enni	eat
+este	evening
+eső	rain
+fehér	white
+fekszik	lie
+felhős	cloudy
+fogat	tooth
+fok	degree
+folyó	river
+fölött	above, over
+fúj	blow
+fürdeni	to bathe
+főzni	to cook
+gazdag	rich, wealthy
+gyors	fast
+gyík	lizard
+hegy	mountain
+holnap	tomorrow
+holnapután	the day after tomorrow
+honnan	from where
+hosszú	long
+hova	where to
+hétfő	Monday
+hétvége	weekend
+híd	bridge
+hó	snow
+hölgyem	madam
+ide	over here
+idő	weather, date, time
+ing	shirt
+innen	from here
+inni, iszik	to drink
+jég	ice
+jön	come
+kacsa	duck
+kedd	Tuesday
+kerül	cost
+kezdődik	starts, begins
+kiabál	shout
+korán	early
+kék	blue
+kérdés	question
+között	between, among
+lakik	live
+lenni	to be
+lesz	will have
+ma	today
+macska	cat
+majom	monkey, ape
+mellett	next to
+menni, megy	to go
+mikor	when
+minden	every, all
+mos	brush, wash
+mosolyog	smile
+munka	work
+mély	deep
+méz	honey
+mögött	behind
+negyed	quarter
+nyár	summer
+néhány	a few, a couple of, some
+oda	to there
+okos	smart, clever
+olcsó	cheap
+onnan	from there, of there
+oroszlán	lion
+paradicsom	tomato
+perc	minute
+pillangó	butterfly
+polc	shelf
+próbafülke	fitting room
+péntek	Friday
+rendező	director
+ritkán	rarely
+ruha	dress
+rövid	short, brief
+szabadnap	day off
+szelet	wind
+szerda	Wednesday
+szeret	like
+szombat	Saturday
+száraz	dry
+sál	scarf
+sárga	yellow
+sült	fried, grilled
+tavasz	spring
+tenger	sea
+titkárnő	secretary
+tojás	egg
+táska	bag
+tél	winter
+tér	square
+tűz	fire
+uborka	cucumber
+uram	Sir
+utazik	travel
+utca	street
+vacsora	dinner
+vasárnap	Sunday
+venni, vesz	buy
+vásárolni	to do shopping
+zöld	green
+állat	animal
+ára	price
+éjfél	midnight
+étterem	restaurant
+óvónő	kindergarten teacher
+örül	glad, happy
+öv	belt
+úszik	swim
+út	path, road
+ünnepnap	holiday
+üveg	glass, bottle
+üzlet	shop, business
 the	a, az
 window	ablak
 short, low	alacsony
@@ -444,7 +565,7 @@ I kiss your hand	csókolom
 South, noon	dél
 student	diák
 pig	disznó
-work	dolgozik
+to work	dolgozni
 lunch	ebéd
 sweet	édes
 one, a	egy
@@ -460,7 +581,6 @@ strawberry	eper
 building	épület
 understand	értem
 and	és
-evening	estét
 to eat	eszik
 food	étel
 year	év
@@ -474,7 +594,6 @@ delicious, fine, tasty	finom
 boy	fiú
 i have no idea	fogalmam sincs
 boss	főnök
-to cook	főzöl
 fresh	friss
 to run	fut
 notebook, exercise book	füzet
@@ -493,7 +612,6 @@ yes	igen
 writer	író
 write	ír
 school	iskola
-to drink	iszik
 drink	ital
 here	itt
 good, all right, okay	jó
@@ -536,7 +654,6 @@ what	mi
 now	most
 artist	művész
 big, large	nagy
-I am very happy	nagyon örülök
 very, a lot	nagyon
 sun, day	nap
 orange	narancs
@@ -816,11 +933,136 @@ print	nyomtat
 read	olvas
 chat	csetel
 get up	felkel
-buy	vásárol
 stay at home	otthon marad
 look	néz
 listen	hallgat
 party	bulizik
 sleep	alszik
 play	játszik
-go	megy
+under, below	alatt
+brown	barna
+bug, beetle	bogár
+frog	béka
+kitten	cica
+cherry	cseresznye
+striped	csíkos
+Thursday	csütörtök
+sugar	cukor
+expensive	drága
+all, entire	egész
+in front of	előtt
+eat	enni
+evening	este
+rain	eső
+white	fehér
+lie	fekszik
+cloudy	felhős
+tooth	fogat
+degree	fok
+river	folyó
+above, over	fölött
+blow	fúj
+to bathe	fürdeni
+to cook	főzni
+rich, wealthy	gazdag
+fast	gyors
+lizard	gyík
+mountain	hegy
+tomorrow	holnap
+the day after tomorrow	holnapután
+from where	honnan
+long	hosszú
+where to	hova
+Monday	hétfő
+weekend	hétvége
+bridge	híd
+snow	hó
+madam	hölgyem
+over here	ide
+weather, date, time	idő
+shirt	ing
+from here	innen
+to drink	inni, iszik
+ice	jég
+come	jön
+duck	kacsa
+Tuesday	kedd
+cost	kerül
+starts, begins	kezdődik
+shout	kiabál
+early	korán
+blue	kék
+question	kérdés
+between, among	között
+live	lakik
+to be	lenni
+will have	lesz
+today	ma
+cat	macska
+monkey, ape	majom
+next to	mellett
+to go	menni, megy
+when	mikor
+every, all	minden
+brush, wash	mos
+smile	mosolyog
+work	munka
+deep	mély
+honey	méz
+behind	mögött
+quarter	negyed
+summer	nyár
+a few, a couple of, some	néhány
+to there	oda
+smart, clever	okos
+cheap	olcsó
+from there, of there	onnan
+lion	oroszlán
+tomato	paradicsom
+minute	perc
+butterfly	pillangó
+shelf	polc
+fitting room	próbafülke
+Friday	péntek
+director	rendező
+rarely	ritkán
+dress	ruha
+short, brief	rövid
+day off	szabadnap
+wind	szelet
+Wednesday	szerda
+like	szeret
+Saturday	szombat
+dry	száraz
+scarf	sál
+yellow	sárga
+fried, grilled	sült
+spring	tavasz
+sea	tenger
+secretary	titkárnő
+egg	tojás
+bag	táska
+winter	tél
+square	tér
+fire	tűz
+cucumber	uborka
+Sir	uram
+travel	utazik
+street	utca
+dinner	vacsora
+Sunday	vasárnap
+buy	venni, vesz
+to do shopping	vásárolni
+green	zöld
+animal	állat
+price	ára
+midnight	éjfél
+restaurant	étterem
+kindergarten teacher	óvónő
+glad, happy	örül
+belt	öv
+swim	úszik
+path, road	út
+holiday	ünnepnap
+glass, bottle	üveg
+shop, business	üzlet
