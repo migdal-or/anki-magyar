@@ -40,7 +40,7 @@ egy	one, a
 éjszaká	night
 elköszönés	farewell
 elnézést	excuse me, sorry
-él	to live
+él	live, exist
 ember	people
 énekel	to sing
 én	I, me
@@ -49,7 +49,7 @@ eper	strawberry
 értem	understand
 és	and
 eszik	to eat
-étel	food
+étel	food, meal
 év	year
 ez	this, it
 fáradt	tired
@@ -103,7 +103,7 @@ krumpli	potato
 külföldi vagyok	I am a foreigner
 kutyá	dog
 lány	girl, daughter
-lát	to see
+látni	to see
 madár	bird
 magas	tall, high
 magyar	Hungarian
@@ -461,7 +461,7 @@ korán	early
 kék	blue
 kérdés	question
 között	between, among
-lakik	live
+lakik	reside
 lenni	to be
 lesz	will have
 ma	today
@@ -533,3 +533,36 @@ zöld	green
 ünnepnap	holiday
 üveg	glass, bottle
 üzlet	shop, business
+parkoló	parking lot
+benzinkút	petrol station
+konditerem	gym
+mozi	cinema
+élelmiszer	grocery
+kocsma	pub
+kollégium	dormitory
+játszótér	playground
+fodrász	hairdresser
+hentes	butcher
+előzmény	background, prior event
+birodalom, császárság	empire
+királyság	kingdom
+rész	part
+jelentős	significant
+korlátozott	limited
+önállóság	autonomy
+hír	news
+érkezik	to arrive
+kitör/kirobban	to break out
+nyomda	press
+börtön	prison
+ifjak	youngsters
+gyűlik	to gather
+polgárság	bourgeoisie
+követelés	demand
+maguk mellé állít	to make them stand by them
+kiszabadít	to get sy free
+cipő	bread loaf / shoe
+kesztyű	glove
+papucs	slippers
+ágy	bed
+bőrönd	suitcase
