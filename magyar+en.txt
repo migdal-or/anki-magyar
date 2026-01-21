@@ -40,7 +40,7 @@ egy	one, a
 éjszaká	night
 elköszönés	farewell
 elnézést	excuse me, sorry
-él	to live
+él	live, exist
 ember	people
 énekel	to sing
 én	I, me
@@ -49,7 +49,7 @@ eper	strawberry
 értem	understand
 és	and
 eszik	to eat
-étel	food
+étel	food, meal
 év	year
 ez	this, it
 fáradt	tired
@@ -103,7 +103,7 @@ krumpli	potato
 külföldi vagyok	I am a foreigner
 kutyá	dog
 lány	girl, daughter
-lát	to see
+látni	to see
 madár	bird
 magas	tall, high
 magyar	Hungarian
@@ -461,7 +461,7 @@ korán	early
 kék	blue
 kérdés	question
 között	between, among
-lakik	live
+lakik	reside
 lenni	to be
 lesz	will have
 ma	today
@@ -533,6 +533,39 @@ zöld	green
 ünnepnap	holiday
 üveg	glass, bottle
 üzlet	shop, business
+parkoló	parking lot
+benzinkút	petrol station
+konditerem	gym
+mozi	cinema
+élelmiszer	grocery
+kocsma	pub
+kollégium	dormitory
+játszótér	playground
+fodrász	hairdresser
+hentes	butcher
+előzmény	background, prior event
+birodalom, császárság	empire
+királyság	kingdom
+rész	part
+jelentős	significant
+korlátozott	limited
+önállóság	autonomy
+hír	news
+érkezik	to arrive
+kitör/kirobban	to break out
+nyomda	press
+börtön	prison
+ifjak	youngsters
+gyűlik	to gather
+polgárság	bourgeoisie
+követelés	demand
+maguk mellé állít	to make them stand by them
+kiszabadít	to get sy free
+cipő	bread loaf / shoe
+kesztyű	glove
+papucs	slippers
+ágy	bed
+bőrönd	suitcase
 the	a, az
 window	ablak
 short, low	alacsony
@@ -573,7 +606,7 @@ hungry	éhes
 night	éjszaká
 farewell	elköszönés
 excuse me, sorry	elnézést
-to live	él
+live, exist	él
 people	ember
 to sing	énekel
 I, me	én
@@ -582,7 +615,7 @@ building	épület
 understand	értem
 and	és
 to eat	eszik
-food	étel
+food, meal	étel
 year	év
 this, it	ez
 tired	fáradt
@@ -636,7 +669,7 @@ potato	krumpli
 I am a foreigner	külföldi vagyok
 dog	kutyá
 girl, daughter	lány
-to see	lát
+to see	látni
 bird	madár
 tall, high	magas
 Hungarian	magyar
@@ -994,7 +1027,7 @@ early	korán
 blue	kék
 question	kérdés
 between, among	között
-live	lakik
+reside	lakik
 to be	lenni
 will have	lesz
 today	ma
@@ -1066,3 +1099,36 @@ path, road	út
 holiday	ünnepnap
 glass, bottle	üveg
 shop, business	üzlet
+parking lot	parkoló
+petrol station	benzinkút
+gym	konditerem
+cinema	mozi
+grocery	élelmiszer
+pub	kocsma
+dormitory	kollégium
+playground	játszótér
+hairdresser	fodrász
+butcher	hentes
+background, prior event	előzmény
+empire	birodalom, császárság
+kingdom	királyság
+part	rész
+significant	jelentős
+limited	korlátozott
+autonomy	önállóság
+news	hír
+to arrive	érkezik
+to break out	kitör/kirobban
+press	nyomda
+prison	börtön
+youngsters	ifjak
+to gather	gyűlik
+bourgeoisie	polgárság
+demand	követelés
+to make them stand by them	maguk mellé állít
+to get sy free	kiszabadít
+bread loaf / shoe	cipő
+glove	kesztyű
+slippers	papucs
+bed	ágy
+suitcase	bőrönd
