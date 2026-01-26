@@ -566,3 +566,13 @@ kesztyű	glove
 papucs	slippers
 ágy	bed
 bőrönd	suitcase
+kifejezések	expressions
+uralkodás	reign
+elköteleződni	to commit
+végleges	final
+vég	end
+jobb	right
+bal	left
+ereklye	relic
+körmenet	procession
+kör	round
