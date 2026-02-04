@@ -576,3 +576,18 @@ bal	left
 ereklye	relic
 körmenet	procession
 kör	round
+terület	territory 
+háború	war
+kivonul	to withdraw
+hadsereg	army 
+támogat	support
+átvesz	to take over
+egypártrendszer	one party system
+kialakít	create, establish
+eltérő	different 
+vall	profess/hold views
+egyház	church 
+értelmiség	intelligentsia 
+üldöz	to persecute
+gyűlölt	hate
+vezető	leader

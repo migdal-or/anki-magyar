@@ -576,6 +576,21 @@ bal	left
 ereklye	relic
 körmenet	procession
 kör	round
+terület	territory 
+háború	war
+kivonul	to withdraw
+hadsereg	army 
+támogat	support
+átvesz	to take over
+egypártrendszer	one party system
+kialakít	create, establish
+eltérő	different 
+vall	profess/hold views
+egyház	church 
+értelmiség	intelligentsia 
+üldöz	to persecute
+gyűlölt	hate
+vezető	leader
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1152,3 +1167,18 @@ left	bal
 relic	ereklye
 procession	körmenet
 round	kör
+territory 	terület
+war	háború
+to withdraw	kivonul
+army 	hadsereg
+support	támogat
+to take over	átvesz
+one party system	egypártrendszer
+create, establish	kialakít
+different 	eltérő
+profess/hold views	vall
+church 	egyház
+intelligentsia 	értelmiség
+to persecute	üldöz
+hate	gyűlölt
+leader	vezető
