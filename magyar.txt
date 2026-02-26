@@ -14,7 +14,7 @@ bemutatkozás	introduction
 bent	inside, in
 beszél	to speak
 bíró	judge
-bocsánat	sorry, excuse me
+bocsánat, elnézést	sorry, excuse me
 boldog	happy
 bolt	shop
 bors	pepper
@@ -39,7 +39,6 @@ egy	one, a
 éhes	hungry
 éjszaká	night
 elköszönés	farewell
-elnézést	excuse me, sorry
 él	live, exist
 ember	people
 énekel	to sing
@@ -591,3 +590,13 @@ egyház	church
 üldöz	to persecute
 gyűlölt	hate
 vezető	leader
+honfoglalás	conquest
+sztyeppe	steppe
+vándorlás	wandering, migration
+követ	follow
+törzs	tribe
+Kárpát-medence	Carpathian Basin
+letelepedni	to settle
+hűség	loyalty
+remény	hope
+hónap	month
