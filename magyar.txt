@@ -600,3 +600,5 @@ letelepedni	to settle
 hűség	loyalty
 remény	hope
 hónap	month
+halál	death
+trónviszály	throne conflict

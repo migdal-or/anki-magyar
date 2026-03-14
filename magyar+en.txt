@@ -600,6 +600,8 @@ letelepedni	to settle
 hűség	loyalty
 remény	hope
 hónap	month
+halál	death
+trónviszály	throne conflict
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1200,3 +1202,5 @@ to settle	letelepedni
 loyalty	hűség
 hope	remény
 month	hónap
+death	halál
+throne conflict	trónviszály
