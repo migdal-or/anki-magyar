@@ -602,6 +602,13 @@ remény	hope
 hónap	month
 halál	death
 trónviszály	throne conflict
+kiad	issue, publish
+legfontosabb	most important
+közjogi	public law
+ami, amely	which
+nemesek	nobles
+jog	law, right
+összegez	summarize
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1204,3 +1211,10 @@ hope	remény
 month	hónap
 death	halál
 throne conflict	trónviszály
+issue, publish	kiad
+most important	legfontosabb
+public law	közjogi
+which	ami, amely
+nobles	nemesek
+law, right	jog
+summarize	összegez

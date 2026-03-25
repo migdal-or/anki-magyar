@@ -602,3 +602,10 @@ remény	hope
 hónap	month
 halál	death
 trónviszály	throne conflict
+kiad	issue, publish
+legfontosabb	most important
+közjogi	public law
+ami, amely	which
+nemesek	nobles
+jog	law, right
+összegez	summarize
