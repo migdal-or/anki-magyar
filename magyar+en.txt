@@ -609,6 +609,16 @@ ami, amely	which
 nemesek	nobles
 jog	law, right
 összegez	summarize
+származik	come from, originate
+harcot vív	fight
+határ	border
+csatlakozik	join
+seregek	troops
+terjeszkedés	expansion
+harangszó	bell ring
+diadal	victory
+fénykor	golden age
+válik	become
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1218,3 +1228,13 @@ which	ami, amely
 nobles	nemesek
 law, right	jog
 summarize	összegez
+come from, originate	származik
+fight	harcot vív
+border	határ
+join	csatlakozik
+troops	seregek
+expansion	terjeszkedés
+bell ring	harangszó
+victory	diadal
+golden age	fénykor
+become	válik
