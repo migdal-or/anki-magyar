@@ -619,6 +619,15 @@ harangszó	bell ring
 diadal	victory
 fénykor	golden age
 válik	become
+hódoltság	occupation
+súlyos	severe
+vereség	defeat
+központ	center
+közel	approximately
+közül	among
+kiemelkedik	stand out
+ostrom	siege
+elveszít	lose
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1238,3 +1247,12 @@ bell ring	harangszó
 victory	diadal
 golden age	fénykor
 become	válik
+occupation	hódoltság
+severe	súlyos
+defeat	vereség
+center	központ
+approximately	közel
+among	közül
+stand out	kiemelkedik
+siege	ostrom
+lose	elveszít

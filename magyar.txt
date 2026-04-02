@@ -619,3 +619,12 @@ harangszó	bell ring
 diadal	victory
 fénykor	golden age
 válik	become
+hódoltság	occupation
+súlyos	severe
+vereség	defeat
+központ	center
+közel	approximately
+közül	among
+kiemelkedik	stand out
+ostrom	siege
+elveszít	lose
