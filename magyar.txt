@@ -628,3 +628,9 @@ közül	among
 kiemelkedik	stand out
 ostrom	siege
 elveszít	lose
+százalék	percent
+indul	begin, start, depart
+szület	be born
+társadalmi	social
+változás	change
+zajlott	take place, happen
