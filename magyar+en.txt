@@ -628,6 +628,12 @@ közül	among
 kiemelkedik	stand out
 ostrom	siege
 elveszít	lose
+százalék	percent
+indul	begin, start, depart
+szület	be born
+társadalmi	social
+változás	change
+zajlott	take place, happen
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1256,3 +1262,9 @@ among	közül
 stand out	kiemelkedik
 siege	ostrom
 lose	elveszít
+percent	százalék
+begin, start, depart	indul
+be born	szület
+social	társadalmi
+change	változás
+take place, happen	zajlott
