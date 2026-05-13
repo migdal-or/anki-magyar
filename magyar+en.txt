@@ -634,6 +634,28 @@ szület	be born
 társadalmi	social
 változás	change
 zajlott	take place, happen
+nádor	king's representative
+jóváhagyás	approval
+felelős	responsible
+kormány	government
+tag	member
+belügyminiszter	minister of interior
+pénzügyminiszter	minister of finance
+hadügyminiszter	minister of war
+ipar	industry
+kereskedelem	trade
+köz	common, public
+tudomány	science
+feljesztés, feljődes	improvement, development
+mezőgazdaság	agriculture
+összekötő	connecting
+kőhíd	stone bridge
+cél	goal
+hivatalos	official
+védelem	protection
+keret	frame, framework
+viszony	relation
+lebontás	dismantling, abolition
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1268,3 +1290,25 @@ be born	szület
 social	társadalmi
 change	változás
 take place, happen	zajlott
+king's representative	nádor
+approval	jóváhagyás
+responsible	felelős
+government	kormány
+member	tag
+minister of interior	belügyminiszter
+minister of finance	pénzügyminiszter
+minister of war	hadügyminiszter
+industry	ipar
+trade	kereskedelem
+common, public	köz
+science	tudomány
+improvement, development	feljesztés, feljődes
+agriculture	mezőgazdaság
+connecting	összekötő
+stone bridge	kőhíd
+goal	cél
+official	hivatalos
+protection	védelem
+frame, framework	keret
+relation	viszony
+dismantling, abolition	lebontás

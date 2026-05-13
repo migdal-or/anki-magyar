@@ -634,3 +634,25 @@ szület	be born
 társadalmi	social
 változás	change
 zajlott	take place, happen
+nádor	king's representative
+jóváhagyás	approval
+felelős	responsible
+kormány	government
+tag	member
+belügyminiszter	minister of interior
+pénzügyminiszter	minister of finance
+hadügyminiszter	minister of war
+ipar	industry
+kereskedelem	trade
+köz	common, public
+tudomány	science
+feljesztés, feljődes	improvement, development
+mezőgazdaság	agriculture
+összekötő	connecting
+kőhíd	stone bridge
+cél	goal
+hivatalos	official
+védelem	protection
+keret	frame, framework
+viszony	relation
+lebontás	dismantling, abolition
