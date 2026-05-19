@@ -117,7 +117,7 @@ mínusz	minus, negative
 mit jelent az	What does it mean?
 mit mondasz	what do you say
 mi	what
-most	now
+most (hu)	now
 művész	artist
 nagy	big, large
 nagyon	very, a lot
@@ -656,3 +656,16 @@ védelem	protection
 keret	frame, framework
 viszony	relation
 lebontás	dismantling, abolition
+lever	suppress
+tábornok	army general
+letesz	put down
+fegyver	gun, arms
+honvédtiszt	army officer
+kivégez	execute, kill
+itél	to sentence
+kényszermunká	forced labour
+legtöbb	most (en)
+megsemmisit	to abolish, see semmi
+felszámol	dismantle
+közigazgatas	public administration
+vértanú	martyr
