@@ -27,7 +27,7 @@ csendes	silent quiet
 csésze	cup
 csinál	to do
 csípős	spicy
-csirke	chicken
+csirke	chicken meat
 csókolom	I kiss your hand
 dél	South, noon
 diák	student
@@ -179,7 +179,7 @@ szótar	dictionary
 szöveg	text
 szó	word
 szünet	pause, break
-találkozás	meeting
+találkozás	introduction meeting
 tanár	teacher
 tánc	to dance
 tanterem	classroom
@@ -403,7 +403,7 @@ otthon marad	stay at home
 néz	look
 hallgat	listen
 bulizik	party
-alszik	sleep
+alszik, aludni	sleep
 játszik	play
 alatt	under, below
 barna	brown
@@ -438,7 +438,7 @@ holnap	tomorrow
 holnapután	the day after tomorrow
 honnan	from where
 hosszú	long
-hova	where to
+hova, hová	where to
 hétfő	Monday
 hétvége	weekend
 híd	bridge
@@ -669,3 +669,66 @@ megsemmisit	to abolish, see semmi
 felszámol	dismantle
 közigazgatas	public administration
 vértanú	martyr
+Mennyi	How much
+Hány	How many
+a sarkon	on the corner
+gyufa	matches
+lyuk	hole
+név	name
+tyúk	chicken bird
+újság	newspaper
+űrhajós	astronaut
+ország	country
+főváros	capital city
+mesél	tell stories
+iroda	office
+számítógép	computer
+nyomtató	printer
+kényelmes	comfortable
+kényelmetlen	uncomfortable
+kellemes	pleasant
+gyönyörű	gorgeous / wonderful
+szabad	free / available
+elfoglalt	busy
+működik	it works
+segít	to help
+küld	to send
+kap	to receive / get
+vonal	line (phone)
+gyakorol	practise
+áruház	department store
+bevásárlóközpont	shopping centre
+színház	theatre
+kávézó	café
+cukrászda	cake shop
+uszoda	swimming pool
+kereszteződés	crossroad
+belváros	city centre
+templom	church
+bicikli / kerékpár	bicycle
+gyalog	on foot
+jegy	ticket
+jobb	right
+bal	left
+egyenesen	straight ahead
+fordul	to turn
+nincs messze	not far
+oldalon	side
+negyed	quarter
+fél	half
+Legyen szíves!	Excuse me! / Please!
+jár	to go regularly
+majd	later / then
+soha	never
+megbeszélés	discussion meeting
+kiállítás	exhibition
+kiegyezés	compromise
+megalkotó	creator
+megtorlás	reprisal, repression
+ellen	against
+ellenállás	resistance
+tárgyalás	negotiation
+létrejött	was created, established
+tart	to last; to remain open/closed
+tekinthető	can be seen as...
+átalakulás	transition
