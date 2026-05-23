@@ -27,7 +27,7 @@ csendes	silent quiet
 csésze	cup
 csinál	to do
 csípős	spicy
-csirke	chicken
+csirke	chicken meat
 csókolom	I kiss your hand
 dél	South, noon
 diák	student
@@ -179,7 +179,7 @@ szótar	dictionary
 szöveg	text
 szó	word
 szünet	pause, break
-találkozás	meeting
+találkozás	introduction meeting
 tanár	teacher
 tánc	to dance
 tanterem	classroom
@@ -403,7 +403,7 @@ otthon marad	stay at home
 néz	look
 hallgat	listen
 bulizik	party
-alszik	sleep
+alszik, aludni	sleep
 játszik	play
 alatt	under, below
 barna	brown
@@ -438,7 +438,7 @@ holnap	tomorrow
 holnapután	the day after tomorrow
 honnan	from where
 hosszú	long
-hova	where to
+hova, hová	where to
 hétfő	Monday
 hétvége	weekend
 híd	bridge
@@ -669,6 +669,69 @@ megsemmisit	to abolish, see semmi
 felszámol	dismantle
 közigazgatas	public administration
 vértanú	martyr
+Mennyi	How much
+Hány	How many
+a sarkon	on the corner
+gyufa	matches
+lyuk	hole
+név	name
+tyúk	chicken bird
+újság	newspaper
+űrhajós	astronaut
+ország	country
+főváros	capital city
+mesél	tell stories
+iroda	office
+számítógép	computer
+nyomtató	printer
+kényelmes	comfortable
+kényelmetlen	uncomfortable
+kellemes	pleasant
+gyönyörű	gorgeous / wonderful
+szabad	free / available
+elfoglalt	busy
+működik	it works
+segít	to help
+küld	to send
+kap	to receive / get
+vonal	line (phone)
+gyakorol	practise
+áruház	department store
+bevásárlóközpont	shopping centre
+színház	theatre
+kávézó	café
+cukrászda	cake shop
+uszoda	swimming pool
+kereszteződés	crossroad
+belváros	city centre
+templom	church
+bicikli / kerékpár	bicycle
+gyalog	on foot
+jegy	ticket
+jobb	right
+bal	left
+egyenesen	straight ahead
+fordul	to turn
+nincs messze	not far
+oldalon	side
+negyed	quarter
+fél	half
+Legyen szíves!	Excuse me! / Please!
+jár	to go regularly
+majd	later / then
+soha	never
+megbeszélés	discussion meeting
+kiállítás	exhibition
+kiegyezés	compromise
+megalkotó	creator
+megtorlás	reprisal, repression
+ellen	against
+ellenállás	resistance
+tárgyalás	negotiation
+létrejött	was created, established
+tart	to last; to remain open/closed
+tekinthető	can be seen as...
+átalakulás	transition
 the	a, az
 window	ablak
 short, low	alacsony
@@ -696,7 +759,7 @@ silent quiet	csendes
 cup	csésze
 to do	csinál
 spicy	csípős
-chicken	csirke
+chicken meat	csirke
 I kiss your hand	csókolom
 South, noon	dél
 student	diák
@@ -848,7 +911,7 @@ dictionary	szótar
 text	szöveg
 word	szó
 pause, break	szünet
-meeting	találkozás
+introduction meeting	találkozás
 teacher	tanár
 to dance	tánc
 classroom	tanterem
@@ -1072,7 +1135,7 @@ stay at home	otthon marad
 look	néz
 listen	hallgat
 party	bulizik
-sleep	alszik
+sleep	alszik, aludni
 play	játszik
 under, below	alatt
 brown	barna
@@ -1107,7 +1170,7 @@ tomorrow	holnap
 the day after tomorrow	holnapután
 from where	honnan
 long	hosszú
-where to	hova
+where to	hova, hová
 Monday	hétfő
 weekend	hétvége
 bridge	híd
@@ -1338,3 +1401,66 @@ to abolish, see semmi	megsemmisit
 dismantle	felszámol
 public administration	közigazgatas
 martyr	vértanú
+How much	Mennyi
+How many	Hány
+on the corner	a sarkon
+matches	gyufa
+hole	lyuk
+name	név
+chicken bird	tyúk
+newspaper	újság
+astronaut	űrhajós
+country	ország
+capital city	főváros
+tell stories	mesél
+office	iroda
+computer	számítógép
+printer	nyomtató
+comfortable	kényelmes
+uncomfortable	kényelmetlen
+pleasant	kellemes
+gorgeous / wonderful	gyönyörű
+free / available	szabad
+busy	elfoglalt
+it works	működik
+to help	segít
+to send	küld
+to receive / get	kap
+line (phone)	vonal
+practise	gyakorol
+department store	áruház
+shopping centre	bevásárlóközpont
+theatre	színház
+café	kávézó
+cake shop	cukrászda
+swimming pool	uszoda
+crossroad	kereszteződés
+city centre	belváros
+church	templom
+bicycle	bicikli / kerékpár
+on foot	gyalog
+ticket	jegy
+right	jobb
+left	bal
+straight ahead	egyenesen
+to turn	fordul
+not far	nincs messze
+side	oldalon
+quarter	negyed
+half	fél
+Excuse me! / Please!	Legyen szíves!
+to go regularly	jár
+later / then	majd
+never	soha
+discussion meeting	megbeszélés
+exhibition	kiállítás
+compromise	kiegyezés
+creator	megalkotó
+reprisal, repression	megtorlás
+against	ellen
+resistance	ellenállás
+negotiation	tárgyalás
+was created, established	létrejött
+to last; to remain open/closed	tart
+can be seen as...	tekinthető
+transition	átalakulás
