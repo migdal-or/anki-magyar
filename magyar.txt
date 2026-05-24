@@ -142,7 +142,7 @@ persze	of course
 piac	market
 pihen	relax, rest
 pincér	waiter
-piros	red
+piros, vörös	red
 pohár	glass
 politikus	politician
 reggel	morning
@@ -588,7 +588,7 @@ vall	profess/hold views
 egyház	church 
 értelmiség	intelligentsia 
 üldöz	to persecute
-gyűlölt	hate
+gyűlölt, utál	hate
 vezető	leader
 honfoglalás	conquest
 sztyeppe	steppe
@@ -732,3 +732,81 @@ létrejött	was created, established
 tart	to last; to remain open/closed
 tekinthető	can be seen as...
 átalakulás	transition
+magadat	yourself accusative
+egymás	each other accusative
+magamat	myself
+engem	me accusative
+téged	you accusative
+élvez	enjoy
+figyelmeztet	warn
+műt	operate
+tol	push
+meglátogat	visit
+talál	find
+figyel	watch
+ismer	know
+kér	ask for
+használ	use
+hall	hear
+hoz	bring
+bérel	rent
+gyűjt	collect
+vág	cut
+költ	spend
+vérzik	bleed
+viszket	itch
+tör	break
+szokott	usually do
+kérni	to ask for
+boka	ankle
+ujj	finger
+vér	blood
+torok	throat
+szőr	fur
+comb	thigh
+fenék	buttocks
+térd	knee
+bajusz	mustache
+bőr	skin
+gerinc	spine
+váll	shoulder
+kéz	hand
+haj	hair
+nyak	neck
+sarok	heel
+kar	arm
+arc	face
+szem	eye
+fül	ear
+láb	leg
+száj	mouth
+fej	head
+has	belly
+orr	nose
+szőrös	hairy
+menyasszony	bride
+unokahúg	niece
+sógor	brother-in-law
+unokatestvér	cousin
+vőlegény	fiancé
+unokaöcs	nephew
+rokon	relative
+unoka	grandchild
+szőke	blonde
+esős	rainy
+napos	sunny
+szeles	windy
+helyes	correct
+széles	wide
+ló	horse
+dal	song
+level	letter
+példa	example
+gesztenye	chestnut
+diót	walnut
+mogyorót	peanut
+sor	queue
+nadrág	pants
+valamit	something
+állatkert	zoo
+járda	sidewalk
