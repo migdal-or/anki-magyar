@@ -385,7 +385,7 @@ alap	fundamental, base
 törvény	law
 tisztelet	respect
 alkotmány	constitution
-vívmány	achievement 
+elérés, vívmány	achievement
 megtestesít	to embody
 test	body 
 folytonosság	continuity
@@ -785,11 +785,8 @@ has	belly
 orr	nose
 szőrös	hairy
 menyasszony	bride
-unokahúg	niece
 sógor	brother-in-law
-unokatestvér	cousin
 vőlegény	fiancé
-unokaöcs	nephew
 rokon	relative
 unoka	grandchild
 szőke	blonde
@@ -810,6 +807,32 @@ nadrág	pants
 valamit	something
 állatkert	zoo
 járda	sidewalk
+lemondás	resignation
+báb	puppet
+hadszíntér	battlefield
+többség	majority; predominantly
+vidéki	rural, countryside
+zsidó	Jewish
+áldozat	victim
+tehető	is estimated
+megtámad	to attack
+tengelyhatalmak	Axis Powers
+csapat	team; troops, platoon
+megszáll	to occupy
+őszi	autumnal, of autumn
+mintegy	about, approximately
+aláírás	signature
+békeszerződés, békediktátum	peace treaty
+csökken	to decrease
+reked	to get stuck
+alapvető	main, fundamental
+felülvizsgálat	revision
+valamin kívül	outside of something
+trónörökös	heir to the throne
+merénylő	assassin
+meggyilkol	to kill
+szövetséges	Allied, Allies
+szemben	opposite
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1195,7 +1218,7 @@ fundamental, base	alap
 law	törvény
 respect	tisztelet
 constitution	alkotmány
-achievement 	vívmány
+achievement	elérés, vívmány
 to embody	megtestesít
 body 	test
 continuity	folytonosság
@@ -1595,11 +1618,8 @@ belly	has
 nose	orr
 hairy	szőrös
 bride	menyasszony
-niece	unokahúg
 brother-in-law	sógor
-cousin	unokatestvér
 fiancé	vőlegény
-nephew	unokaöcs
 relative	rokon
 grandchild	unoka
 blonde	szőke
@@ -1620,3 +1640,29 @@ pants	nadrág
 something	valamit
 zoo	állatkert
 sidewalk	járda
+resignation	lemondás
+puppet	báb
+battlefield	hadszíntér
+majority; predominantly	többség
+rural, countryside	vidéki
+Jewish	zsidó
+victim	áldozat
+is estimated	tehető
+to attack	megtámad
+Axis Powers	tengelyhatalmak
+team; troops, platoon	csapat
+to occupy	megszáll
+autumnal, of autumn	őszi
+about, approximately	mintegy
+signature	aláírás
+peace treaty	békeszerződés, békediktátum
+to decrease	csökken
+to get stuck	reked
+main, fundamental	alapvető
+revision	felülvizsgálat
+outside of something	valamin kívül
+heir to the throne	trónörökös
+assassin	merénylő
+to kill	meggyilkol
+Allied, Allies	szövetséges
+opposite	szemben
