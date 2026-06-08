@@ -387,13 +387,13 @@ tisztelet	respect
 alkotmány	constitution
 elérés, vívmány	achievement
 megtestesít	to embody
-test	body 
+test	body
 folytonosság	continuity
 egység	unity
 emlék	memory
 forradalom	revolution
-harc	war, fight 
-alapítás	foundation 
+harc	war, fight
+alapítás	foundation
 visel valamit	to wear something
 nyomtat	print
 olvas	read
@@ -575,18 +575,18 @@ bal	left
 ereklye	relic
 körmenet	procession
 kör	round
-terület	territory 
+terület	territory
 háború	war
 kivonul	to withdraw
-hadsereg	army 
+hadsereg	army
 támogat	support
 átvesz	to take over
 egypártrendszer	one party system
 kialakít	create, establish
-eltérő	different 
+eltérő	different
 vall	profess/hold views
-egyház	church 
-értelmiség	intelligentsia 
+egyház	church institution
+értelmiség	intelligentsia
 üldöz	to persecute
 gyűlölt, utál	hate
 vezető	leader
@@ -704,7 +704,7 @@ cukrászda	cake shop
 uszoda	swimming pool
 kereszteződés	crossroad
 belváros	city centre
-templom	church
+templom	church building
 bicikli / kerékpár	bicycle
 gyalog	on foot
 jegy	ticket
@@ -1220,13 +1220,13 @@ respect	tisztelet
 constitution	alkotmány
 achievement	elérés, vívmány
 to embody	megtestesít
-body 	test
+body	test
 continuity	folytonosság
 unity	egység
 memory	emlék
 revolution	forradalom
-war, fight 	harc
-foundation 	alapítás
+war, fight	harc
+foundation	alapítás
 to wear something	visel valamit
 print	nyomtat
 read	olvas
@@ -1408,18 +1408,18 @@ left	bal
 relic	ereklye
 procession	körmenet
 round	kör
-territory 	terület
+territory	terület
 war	háború
 to withdraw	kivonul
-army 	hadsereg
+army	hadsereg
 support	támogat
 to take over	átvesz
 one party system	egypártrendszer
 create, establish	kialakít
-different 	eltérő
+different	eltérő
 profess/hold views	vall
-church 	egyház
-intelligentsia 	értelmiség
+church institution	egyház
+intelligentsia	értelmiség
 to persecute	üldöz
 hate	gyűlölt, utál
 leader	vezető
@@ -1537,7 +1537,7 @@ cake shop	cukrászda
 swimming pool	uszoda
 crossroad	kereszteződés
 city centre	belváros
-church	templom
+church building	templom
 bicycle	bicikli / kerékpár
 on foot	gyalog
 ticket	jegy

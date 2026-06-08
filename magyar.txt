@@ -387,13 +387,13 @@ tisztelet	respect
 alkotmány	constitution
 elérés, vívmány	achievement
 megtestesít	to embody
-test	body 
+test	body
 folytonosság	continuity
 egység	unity
 emlék	memory
 forradalom	revolution
-harc	war, fight 
-alapítás	foundation 
+harc	war, fight
+alapítás	foundation
 visel valamit	to wear something
 nyomtat	print
 olvas	read
@@ -575,18 +575,18 @@ bal	left
 ereklye	relic
 körmenet	procession
 kör	round
-terület	territory 
+terület	territory
 háború	war
 kivonul	to withdraw
-hadsereg	army 
+hadsereg	army
 támogat	support
 átvesz	to take over
 egypártrendszer	one party system
 kialakít	create, establish
-eltérő	different 
+eltérő	different
 vall	profess/hold views
-egyház	church 
-értelmiség	intelligentsia 
+egyház	church institution
+értelmiség	intelligentsia
 üldöz	to persecute
 gyűlölt, utál	hate
 vezető	leader
@@ -704,7 +704,7 @@ cukrászda	cake shop
 uszoda	swimming pool
 kereszteződés	crossroad
 belváros	city centre
-templom	church
+templom	church building
 bicikli / kerékpár	bicycle
 gyalog	on foot
 jegy	ticket
