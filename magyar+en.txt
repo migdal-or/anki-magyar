@@ -255,7 +255,6 @@ első	first
 második	second
 harmadik	third
 milyen magas	how tall
-mennyibe kerül	how much does it cost
 párbeszéd	dialogue
 világ	world
 hely	place
@@ -453,7 +452,7 @@ jég	ice
 jön	come
 kacsa	duck
 kedd	Tuesday
-kerül	cost
+kerül	cost, get somewhere
 kezdődik	starts, begins
 kiabál	shout
 korán	early
@@ -833,6 +832,13 @@ merénylő	assassin
 meggyilkol	to kill
 szövetséges	Allied, Allies
 szemben	opposite
+szinte	nearly, almost
+több more
+hurcol	deport, drag away
+döntés	decision, award
+jóvátétel	reparation
+továbbá	furthermore
+kötelez	oblige
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1088,7 +1094,6 @@ first	első
 second	második
 third	harmadik
 how tall	milyen magas
-how much does it cost	mennyibe kerül
 dialogue	párbeszéd
 world	világ
 place	hely
@@ -1286,7 +1291,7 @@ ice	jég
 come	jön
 duck	kacsa
 Tuesday	kedd
-cost	kerül
+cost, get somewhere	kerül
 starts, begins	kezdődik
 shout	kiabál
 early	korán
@@ -1666,3 +1671,10 @@ assassin	merénylő
 to kill	meggyilkol
 Allied, Allies	szövetséges
 opposite	szemben
+nearly, almost	szinte
+több more
+deport, drag away	hurcol
+decision, award	döntés
+reparation	jóvátétel
+furthermore	továbbá
+oblige	kötelez
