@@ -665,12 +665,10 @@ itél	to sentence
 kényszermunká	forced labour
 legtöbb	most (en)
 megsemmisit	to abolish, see semmi
-felszámol	dismantle
 közigazgatas	public administration
 vértanú	martyr
 Mennyi	How much
 Hány	How many
-a sarkon	on the corner
 gyufa	matches
 lyuk	hole
 név	name
@@ -772,7 +770,7 @@ váll	shoulder
 kéz	hand
 haj	hair
 nyak	neck
-sarok	heel
+sarok	heel, corner
 kar	arm
 arc	face
 szem	eye
@@ -833,12 +831,19 @@ meggyilkol	to kill
 szövetséges	Allied, Allies
 szemben	opposite
 szinte	nearly, almost
-több more
+több	more
 hurcol	deport, drag away
 döntés	decision, award
 jóvátétel	reparation
 továbbá	furthermore
 kötelez	oblige
+ígér	promise
+valami ellenére	despite something
+elhagy	to leave (a place)
+felszámol	to crush, dismantle
+kijelöl	appoint, designate
+fémjelzett	associated with
+temetés	funeral
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1504,12 +1509,10 @@ to sentence	itél
 forced labour	kényszermunká
 most (en)	legtöbb
 to abolish, see semmi	megsemmisit
-dismantle	felszámol
 public administration	közigazgatas
 martyr	vértanú
 How much	Mennyi
 How many	Hány
-on the corner	a sarkon
 matches	gyufa
 hole	lyuk
 name	név
@@ -1611,7 +1614,7 @@ shoulder	váll
 hand	kéz
 hair	haj
 neck	nyak
-heel	sarok
+heel, corner	sarok
 arm	kar
 face	arc
 eye	szem
@@ -1672,9 +1675,16 @@ to kill	meggyilkol
 Allied, Allies	szövetséges
 opposite	szemben
 nearly, almost	szinte
-több more
+more	több
 deport, drag away	hurcol
 decision, award	döntés
 reparation	jóvátétel
 furthermore	továbbá
 oblige	kötelez
+promise	ígér
+despite something	valami ellenére
+to leave (a place)	elhagy
+to crush, dismantle	felszámol
+appoint, designate	kijelöl
+associated with	fémjelzett
+funeral	temetés
