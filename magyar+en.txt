@@ -844,6 +844,16 @@ felszámol	to crush, dismantle
 kijelöl	appoint, designate
 fémjelzett	associated with
 temetés	funeral
+rendszer	system
+váltás	change, switch
+megszűnik	cease to exist
+választás	election
+választ	choose
+köztársaság	republic
+elnök	president, chairman
+alakul	be formed
+végleg	for good, permanently
+gondol	think
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1688,3 +1698,13 @@ to crush, dismantle	felszámol
 appoint, designate	kijelöl
 associated with	fémjelzett
 funeral	temetés
+system	rendszer
+change, switch	váltás
+cease to exist	megszűnik
+election	választás
+choose	választ
+republic	köztársaság
+president, chairman	elnök
+be formed	alakul
+for good, permanently	végleg
+think	gondol
