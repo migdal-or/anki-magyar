@@ -856,6 +856,5 @@ lekottáz	notate, transcribe
 lejegyez	record, write down
 képviselő	representative
 színvonal	standard, level
-kiemelkedő	outstanding
 alkotó	creator (artist)
 mű	work of art
