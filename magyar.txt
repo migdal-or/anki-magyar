@@ -283,7 +283,7 @@ nyugdíjas	pensioner
 nagyszülő	grandparent
 nagymama	grandmother
 nagypapa	grandfather
-szülo	parent
+szülő	parent
 anyuka	mom
 apuka	dad
 gyerek gyermek	child
@@ -545,7 +545,7 @@ előzmény	background, prior event
 birodalom, császárság	empire
 királyság	kingdom
 rész	part
-jelentős	significant
+jelentős, meghatározó	significant
 korlátozott	limited
 önállóság	autonomy
 hír	news
@@ -705,14 +705,10 @@ templom	church building
 bicikli / kerékpár	bicycle
 gyalog	on foot
 jegy	ticket
-jobb	right
-bal	left
 egyenesen	straight ahead
 fordul	to turn
 nincs messze	not far
 oldalon	side
-negyed	quarter
-fél	half
 Legyen szíves!	Excuse me! / Please!
 jár	to go regularly
 majd	later / then
@@ -720,7 +716,6 @@ soha	never
 megbeszélés	discussion meeting
 kiállítás	exhibition
 kiegyezés	compromise
-megalkotó	creator
 megtorlás	reprisal, repression
 ellen	against
 ellenállás	resistance
@@ -754,7 +749,6 @@ vérzik	bleed
 viszket	itch
 tör	break
 szokott	usually do
-kérni	to ask for
 boka	ankle
 ujj	finger
 vér	blood
@@ -854,3 +848,14 @@ elnök	president, chairman
 alakul	be formed
 végleg	for good, permanently
 gondol	think
+irodalom	literature
+személyiség	personality
+nép	folk
+dallam	melody
+lekottáz	notate, transcribe
+lejegyez	record, write down
+képviselő	representative
+színvonal	standard, level
+kiemelkedő	outstanding
+alkotó	creator (artist)
+mű	work of art
