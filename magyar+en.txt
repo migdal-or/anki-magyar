@@ -283,7 +283,7 @@ nyugdíjas	pensioner
 nagyszülő	grandparent
 nagymama	grandmother
 nagypapa	grandfather
-szülo	parent
+szülő	parent
 anyuka	mom
 apuka	dad
 gyerek gyermek	child
@@ -545,7 +545,7 @@ előzmény	background, prior event
 birodalom, császárság	empire
 királyság	kingdom
 rész	part
-jelentős	significant
+jelentős, meghatározó	significant
 korlátozott	limited
 önállóság	autonomy
 hír	news
@@ -705,14 +705,10 @@ templom	church building
 bicikli / kerékpár	bicycle
 gyalog	on foot
 jegy	ticket
-jobb	right
-bal	left
 egyenesen	straight ahead
 fordul	to turn
 nincs messze	not far
 oldalon	side
-negyed	quarter
-fél	half
 Legyen szíves!	Excuse me! / Please!
 jár	to go regularly
 majd	later / then
@@ -720,7 +716,6 @@ soha	never
 megbeszélés	discussion meeting
 kiállítás	exhibition
 kiegyezés	compromise
-megalkotó	creator
 megtorlás	reprisal, repression
 ellen	against
 ellenállás	resistance
@@ -754,7 +749,6 @@ vérzik	bleed
 viszket	itch
 tör	break
 szokott	usually do
-kérni	to ask for
 boka	ankle
 ujj	finger
 vér	blood
@@ -854,6 +848,17 @@ elnök	president, chairman
 alakul	be formed
 végleg	for good, permanently
 gondol	think
+irodalom	literature
+személyiség	personality
+nép	folk
+dallam	melody
+lekottáz	notate, transcribe
+lejegyez	record, write down
+képviselő	representative
+színvonal	standard, level
+kiemelkedő	outstanding
+alkotó	creator (artist)
+mű	work of art
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1137,7 +1142,7 @@ pensioner	nyugdíjas
 grandparent	nagyszülő
 grandmother	nagymama
 grandfather	nagypapa
-parent	szülo
+parent	szülő
 mom	anyuka
 dad	apuka
 child	gyerek gyermek
@@ -1399,7 +1404,7 @@ background, prior event	előzmény
 empire	birodalom, császárság
 kingdom	királyság
 part	rész
-significant	jelentős
+significant	jelentős, meghatározó
 limited	korlátozott
 autonomy	önállóság
 news	hír
@@ -1559,14 +1564,10 @@ church building	templom
 bicycle	bicikli / kerékpár
 on foot	gyalog
 ticket	jegy
-right	jobb
-left	bal
 straight ahead	egyenesen
 to turn	fordul
 not far	nincs messze
 side	oldalon
-quarter	negyed
-half	fél
 Excuse me! / Please!	Legyen szíves!
 to go regularly	jár
 later / then	majd
@@ -1574,7 +1575,6 @@ never	soha
 discussion meeting	megbeszélés
 exhibition	kiállítás
 compromise	kiegyezés
-creator	megalkotó
 reprisal, repression	megtorlás
 against	ellen
 resistance	ellenállás
@@ -1608,7 +1608,6 @@ bleed	vérzik
 itch	viszket
 break	tör
 usually do	szokott
-to ask for	kérni
 ankle	boka
 finger	ujj
 blood	vér
@@ -1708,3 +1707,14 @@ president, chairman	elnök
 be formed	alakul
 for good, permanently	végleg
 think	gondol
+literature	irodalom
+personality	személyiség
+folk	nép
+melody	dallam
+notate, transcribe	lekottáz
+record, write down	lejegyez
+representative	képviselő
+standard, level	színvonal
+outstanding	kiemelkedő
+creator (artist)	alkotó
+work of art	mű
