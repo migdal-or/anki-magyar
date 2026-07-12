@@ -858,3 +858,10 @@ képviselő	representative
 színvonal	standard, level
 alkotó	creator (artist)
 mű	work of art
+alak	figure
+dicsér	praise
+veszély	danger
+folyóirat	journal
+kapu	gate
+előd	predecessor
+összefonódás	connection, entanglement

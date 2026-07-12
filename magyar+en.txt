@@ -858,6 +858,13 @@ képviselő	representative
 színvonal	standard, level
 alkotó	creator (artist)
 mű	work of art
+alak	figure
+dicsér	praise
+veszély	danger
+folyóirat	journal
+kapu	gate
+előd	predecessor
+összefonódás	connection, entanglement
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1716,3 +1723,10 @@ representative	képviselő
 standard, level	színvonal
 creator (artist)	alkotó
 work of art	mű
+figure	alak
+praise	dicsér
+danger	veszély
+journal	folyóirat
+gate	kapu
+predecessor	előd
+connection, entanglement	összefonódás
