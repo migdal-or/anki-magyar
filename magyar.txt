@@ -856,6 +856,12 @@ lekottáz	notate, transcribe
 lejegyez	record, write down
 képviselő	representative
 színvonal	standard, level
-kiemelkedő	outstanding
 alkotó	creator (artist)
 mű	work of art
+alak	figure
+dicsér	praise
+veszély	danger
+folyóirat	journal
+kapu	gate
+előd	predecessor
+összefonódás	connection, entanglement
