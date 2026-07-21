@@ -865,3 +865,9 @@ folyóirat	journal
 kapu	gate
 előd	predecessor
 összefonódás	connection, entanglement
+vallomás	confession
+változat	version
+tétel	item
+öröm	joy
+hattyú	swan
+szív	heart
