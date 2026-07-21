@@ -865,6 +865,12 @@ folyóirat	journal
 kapu	gate
 előd	predecessor
 összefonódás	connection, entanglement
+vallomás	confession
+változat	version
+tétel	item
+öröm	joy
+hattyú	swan
+szív	heart
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1730,3 +1736,9 @@ journal	folyóirat
 gate	kapu
 predecessor	előd
 connection, entanglement	összefonódás
+confession	vallomás
+version	változat
+item	tétel
+joy	öröm
+swan	hattyú
+heart	szív
