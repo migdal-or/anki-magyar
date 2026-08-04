@@ -871,3 +871,23 @@ tétel	item
 öröm	joy
 hattyú	swan
 szív	heart
+különleges	special
+elfogad	accept, adopt
+hatályba lép	enter into force
+biztos	sure
+érték	value
+megőriz	preserve
+képvisel	represent
+módosít	to amend
+költségvetés	budget
+végrehajtó	executive
+kapcsolat	relationship
+bizalom	confidence, trust
+irányít	direct
+összehangol	to coordinate
+jogszabály	legal regulation
+rendvédelem	defence
+ügy	case, affairs
+környezet	environment
+beruházás	investment
+település	settlement
