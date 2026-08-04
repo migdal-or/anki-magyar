@@ -871,6 +871,26 @@ tétel	item
 öröm	joy
 hattyú	swan
 szív	heart
+különleges	special
+elfogad	accept, adopt
+hatályba lép	enter into force
+biztos	sure
+érték	value
+megőriz	preserve
+képvisel	represent
+módosít	to amend
+költségvetés	budget
+végrehajtó	executive
+kapcsolat	relationship
+bizalom	confidence, trust
+irányít	direct
+összehangol	to coordinate
+jogszabály	legal regulation
+rendvédelem	defence
+ügy	case, affairs
+környezet	environment
+beruházás	investment
+település	settlement
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1742,3 +1762,23 @@ item	tétel
 joy	öröm
 swan	hattyú
 heart	szív
+special	különleges
+accept, adopt	elfogad
+enter into force	hatályba lép
+sure	biztos
+value	érték
+preserve	megőriz
+represent	képvisel
+to amend	módosít
+budget	költségvetés
+executive	végrehajtó
+relationship	kapcsolat
+confidence, trust	bizalom
+direct	irányít
+to coordinate	összehangol
+legal regulation	jogszabály
+defence	rendvédelem
+case, affairs	ügy
+environment	környezet
+investment	beruházás
+settlement	település
