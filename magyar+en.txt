@@ -425,7 +425,6 @@ felhős	cloudy
 fogat	tooth
 fok	degree
 folyó	river
-fölött	above, over
 fúj	blow
 fürdeni	to bathe
 főzni	to cook
@@ -891,6 +890,17 @@ rendvédelem	defence
 környezet	environment
 beruházás	investment
 település	settlement
+őrködik	oversee
+államszervezet	state organization
+fölött, felett	above, over
+titkos	secret
+legfeljebb	at most
+alkalom	occasion
+főparancsnok	commander in chief
+alakuló ülés	inaugural session
+összehív	convene, call together
+feloszlat	dissolve
+eset	case
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1316,7 +1326,6 @@ cloudy	felhős
 tooth	fogat
 degree	fok
 river	folyó
-above, over	fölött
 blow	fúj
 to bathe	fürdeni
 to cook	főzni
@@ -1782,3 +1791,14 @@ case, affairs	ügy
 environment	környezet
 investment	beruházás
 settlement	település
+oversee	őrködik
+state organization	államszervezet
+above, over	fölött, felett
+secret	titkos
+at most	legfeljebb
+occasion	alkalom
+commander in chief	főparancsnok
+inaugural session	alakuló ülés
+convene, call together	összehív
+dissolve	feloszlat
+case	eset
