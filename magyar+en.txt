@@ -644,7 +644,6 @@ ipar	industry
 kereskedelem	trade
 köz	common, public
 tudomány	science
-feljesztés, feljődes	improvement, development
 mezőgazdaság	agriculture
 összekötő	connecting
 kőhíd	stone bridge
@@ -901,6 +900,18 @@ alakuló ülés	inaugural session
 összehív	convene, call together
 feloszlat	dissolve
 eset	case
+feljesztés, feljődes	improvement, development
+jogegyenlőség	legal equality
+egyezmény	convention
+joghatóság	jurisdiction
+alábbi	following
+megkülönböztet	distinguish, differentiate
+egyesülési szabadság	freedom of association
+lelkiismereti szabadság	freedom of conscience
+szólásszabadság	freedom of speech
+sajtószabadság	freedom of the press
+fogyatékkal élők	people with disabilities
+mérföldkő	milestone
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1545,7 +1556,6 @@ industry	ipar
 trade	kereskedelem
 common, public	köz
 science	tudomány
-improvement, development	feljesztés, feljődes
 agriculture	mezőgazdaság
 connecting	összekötő
 stone bridge	kőhíd
@@ -1802,3 +1812,15 @@ inaugural session	alakuló ülés
 convene, call together	összehív
 dissolve	feloszlat
 case	eset
+improvement, development	feljesztés, feljődes
+legal equality	jogegyenlőség
+convention	egyezmény
+jurisdiction	joghatóság
+following	alábbi
+distinguish, differentiate	megkülönböztet
+freedom of association	egyesülési szabadság
+freedom of conscience	lelkiismereti szabadság
+freedom of speech	szólásszabadság
+freedom of the press	sajtószabadság
+people with disabilities	fogyatékkal élők
+milestone	mérföldkő
