@@ -662,7 +662,6 @@ kivégez	execute, kill
 itél	to sentence
 kényszermunká	forced labour
 legtöbb	most (en)
-megsemmisit	to abolish, see semmi
 közigazgatas	public administration
 vértanú	martyr
 Mennyi	How much
@@ -912,3 +911,14 @@ szólásszabadság	freedom of speech
 sajtószabadság	freedom of the press
 fogyatékkal élők	people with disabilities
 mérföldkő	milestone
+megsemmisit	destroy
+korlát	barrier, limit, restriction
+érdek	interest
+méltóság	dignity
+eljárás	trial
+vélemény	opinion
+nyilvánítás	declaration, manifestation
+büntetés	penalty
+eltöröl	abolish
+sért	injure, violate
+elidegenít	alienate
