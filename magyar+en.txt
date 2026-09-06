@@ -922,6 +922,12 @@ büntetés	penalty
 eltöröl	abolish
 sért	injure, violate
 elidegenít	alienate
+tájegység	geographical region
+tó	lake
+szomszéd	neighbor
+Alföld	Great Hungarian Plain
+alj	bottom, foot
+domb	hill
 the	a, az
 window	ablak
 short, low	alacsony
@@ -1844,3 +1850,9 @@ penalty	büntetés
 abolish	eltöröl
 injure, violate	sért
 alienate	elidegenít
+geographical region	tájegység
+lake	tó
+neighbor	szomszéd
+Great Hungarian Plain	Alföld
+bottom, foot	alj
+hill	domb
