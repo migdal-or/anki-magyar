@@ -922,3 +922,9 @@ büntetés	penalty
 eltöröl	abolish
 sért	injure, violate
 elidegenít	alienate
+tájegység	geographical region
+tó	lake
+szomszéd	neighbor
+Alföld	Great Hungarian Plain
+alj	bottom, foot
+domb	hill
