@@ -928,3 +928,13 @@ szomszéd	neighbor
 Alföld	Great Hungarian Plain
 alj	bottom, foot
 domb	hill
+kerület	district
+rendelkezik	to have
+Szépművészeti Múzeum	Museum of Fine Arts
+jellegzetes	distinctive
+szokás	tradition
+amelyek	which, that
+vonatkozás	aspect, regard
+gulyás	herdsman, goulash
+alapanyag	ingredient
+őrölt	ground
